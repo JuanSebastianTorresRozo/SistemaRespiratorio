@@ -1,0 +1,41 @@
+
+
+
+.logo{
+
+    
+    width: 65px;
+    height: 60px;
+
+}
+.Inicio{
+    background-color: aquamarine;
+    padding: 100px;
+
+}
+h1{
+
+    text-align: center;
+    padding: 30px;
+}
+.home{
+    background-image: none;
+    width: 200px;
+    height: 300px ;
+
+}
+.laringe{
+
+    padding: 100px;
+
+}
+.foto1 .foto2 .foto3{
+
+    width: 200px;
+    height: 300px ;
+
+}
+.traquea{
+
+    padding: 100px;
+}
