@@ -1,5 +1,13 @@
+.info{
+    display: flex;
 
+}
+p{
 
+    text-align: justify;
+    font-size: 16px;
+
+}
 
 .logo{
 
@@ -38,4 +46,10 @@ h1{
 .traquea{
 
     padding: 100px;
+}
+.maduracion{
+
+    padding: 100px;
+    background-color: aquamarine;
+
 }
